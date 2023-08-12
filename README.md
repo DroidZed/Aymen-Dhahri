@@ -6,6 +6,6 @@
 
 [![DroidZed](https://github-readme-stats-r8du3nvuw-droidzed.vercel.app/api?username=droidzed&show_icons=true&bg_color=10,6e14aa,904e95&title_color=fff&text_color=fff&include_all_commits=true&custom_title=DroidZed&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  
-![Snake animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
