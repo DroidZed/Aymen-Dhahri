@@ -3,6 +3,8 @@
 
 # 𝓓𝓻𝓸𝓲𝓭𝓩𝓮𝓭
 
+[![Spotify](https://novatorem-8vrkbcul1-droidzed.vercel.app/api/spotify)](https://open.spotify.com/user/9jib0d4osau56gxt26y8oca6h)
+
 </div>
 
 >*_𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝖉𝖔𝖒𝖆𝖎𝖓_*
@@ -18,10 +20,6 @@
 | 🔨**Tools** | <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" width="40" height="40" alt="pytest logo svg" /> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="40" height="40" alt="docker logo svg"/> <img src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" width="40" height="40" alt="unity logo" />
 
 <div style="display: block;">
-
-### 🎶 Spotify Presence:
-
-[![Spotify](https://novatorem-8vrkbcul1-droidzed.vercel.app/api/spotify)](https://open.spotify.com/user/9jib0d4osau56gxt26y8oca6h)
 
 ### 📈 GitHub Stats:
 
