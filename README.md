@@ -3,6 +3,8 @@
 
 # 𝓓𝓻𝓸𝓲𝓭𝓩𝓮𝓭
 
+<img src="new_wallpaper_blood_c.png" />
+
 [![Spotify](https://novatorem-8vrkbcul1-droidzed.vercel.app/api/spotify)](https://open.spotify.com/user/9jib0d4osau56gxt26y8oca6h)
 
 </div>
